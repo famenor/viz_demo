@@ -1,0 +1,5 @@
+outs:
+- md5: aa7627db696d61d64e84aa5bebdffaf7
+  size: 64800
+  path: Casos_Diarios_Estado_Nacional_Defunciones.csv
+  isexec: true
